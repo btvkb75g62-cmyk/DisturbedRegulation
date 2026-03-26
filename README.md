@@ -5,9 +5,6 @@ This repository implements a **Markovian Robust Linear Quadratic Regulator with 
 * Markovian switching dynamics (two independent chains)
 * Parametric uncertainties
 * Measurable disturbances
-* Augmented state formulation
-
-The approach provides a **Riccati-based solution** for robust optimal control with computational complexity on the order of ( \mathcal{O}(n^3) ).
 
 ---
 
